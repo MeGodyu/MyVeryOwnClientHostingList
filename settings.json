@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TablespoonSMP.aternos.me",
-    "port": 60900,
+    "ip": "Ant1StableSMP.aternos.me",
+    "port": 29259,
     "version": "",
     "try-creative": false
   },
